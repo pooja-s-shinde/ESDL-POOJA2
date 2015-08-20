@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
   cout<<"Hi Wel-Come to GiHub";
-  cout<<"Hi its me";
+  a=0;
+  cout<<"a="<<a;
 }
